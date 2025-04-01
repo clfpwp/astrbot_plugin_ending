@@ -1,9 +1,8 @@
-# helloworld
+# Astrbot每日doro结局
 
-AstrBot 插件模板
+版本：1.0
+作者：Cl_Fu
+仓库：https://github.com/clfpwp/astrbot_plugin_ending
 
-A template plugin for AstrBot plugin feature
 
-# 支持
-
-[帮助文档](https://astrbot.app)
+# 输入“今日结局”获得今天的doro结局,每人每天一个结局，第二天刷新。
